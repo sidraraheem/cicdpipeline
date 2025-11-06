@@ -136,3 +136,4 @@ with open('scores.txt', "w") as score:
     score.write("Recall Score: %2.1f%%\n" % recall_lr)
     score.write("Precision Score: %2.1f%%\n" % prec_lr)
 
+
